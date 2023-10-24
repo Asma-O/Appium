@@ -1,11 +1,16 @@
 # Appium
+
 Appium Android Native Mobile Automation Project
+
 This project provides a framework and example tests for automated mobile app testing on Android using Appium and Java.
 
 # Prerequisites
 Java JDK installed (version 8 or higher)
+
 Maven installed
+
 Appium server installed
+
 Android SDK and emulator/device set up
 
 # Running Tests
